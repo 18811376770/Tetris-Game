@@ -1,4 +1,3 @@
-#Tetris Game
 Implemented a tetris game by java and some built-in packages. It contains some features below
 1. click mouse to control move left or right outside main area
 2. can adjust square falling speed, score factor, difficulty, speed factor with a user-friendly interface.
